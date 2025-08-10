@@ -17,7 +17,7 @@ This project streamlines hospital operations by automating bed assignments, moni
 ## 🛠️ Tech Stack
 - **Language:** Java
 - **GUI:** Swing
-- **Data Storage:** Excel (via Apache POI or equivalent library)
+- **Data Storage:** Excel (via Apache POI)
 - **File Format Support:** `.xlsx` for hospital and patient data
 
 ---
