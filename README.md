@@ -31,7 +31,7 @@ This project streamlines hospital operations by automating bed assignments, moni
 ### Running the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/hospital-bed-management.git
+   [git clone https://github.com/AbhishekKhond005/DynamicPatientAdmission.git]
 2. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
 
 3. Compile and run Main.java or use the provided JAR file in the JAR/ directory.
