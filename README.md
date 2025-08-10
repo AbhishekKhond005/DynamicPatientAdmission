@@ -22,24 +22,6 @@ This project streamlines hospital operations by automating bed assignments, moni
 
 ---
 
-## 📂 Project Structure
-├── AssignBed.java # Logic for assigning beds
-├── Bed.java # Bed object model
-├── DataBase.java # Handles data operations
-├── Department.java # Department-related data
-├── HospitalData.java # Hospital-level data management
-├── Main.java # Entry point of the application
-├── Patient.java # Patient object model
-├── PatientForm.java # GUI form for patient entry
-├── PatientForm1.java # Additional patient form
-├── Room.java # Room object model
-├── PatientDetails.xlsx # Sample patient data
-├── hospital_data.xlsx # Sample hospital/bed data
-├── META-INF/ # Metadata
-├── out/production/ # Compiled files
-├── JAR/ # Packaged JAR file
-
-
 ## 🚀 Getting Started
 
 ### Prerequisites
